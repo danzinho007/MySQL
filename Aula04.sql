@@ -1,3 +1,7 @@
+-- Mesma coisa da aula 03, sendo que :
+-- Nesse temos uma chave primária que é um número inteiro que será gerado automaticamente peplo sistema
+-- Citamos a id no início e no final 
+
 create table pessoas1 (
 id int not null auto_increment,
 nome varchar(30) not null,
