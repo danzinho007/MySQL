@@ -1,0 +1,21 @@
+Aula SQL 
+
+01 = Cria um Banco de Dados
+02 = Cria uma Tabela e adiciona colunas
+03 = Mesma coisa do 02 só que diferente
+04 = 02 sendo que agora ela tem uma Chave primária
+05 = Adicionar na tabela conteúdo 
+06 = Apagando Coluna da Tabela
+07 = Renomeando uma Tabela
+08 = Mudando a posição de uma Coluna em uma Tabela
+09 = Nova chave Primária em uma Tabela
+10 = Remover Chave Primária da Tabela
+
+11 = Adicionar numa na Tabela ( F )
+12 = Adicionar Código na Primeira Coluna ( F )
+13 = Muda o tipo Primitivo de uma Coluna ( F )
+14 = Muda a Constraint de uma coluna ( F )
+15 = Renomear uma Coluna ( F )
+16 = Criar uma Tabela caso não exista ( F )
+17 = Mostrar a tabela ( F )
+18 = 
