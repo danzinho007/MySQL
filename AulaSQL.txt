@@ -7,7 +7,7 @@ Aula SQL
 05 = Adicionar na tabela conteúdo 
 06 = Apagando Coluna da Tabela
 07 = Renomeando uma Tabela
-08 = Mudando a posição de uma Coluna em uma Tabela
+08 = Alterando a posição de uma Coluna em uma Tabela
 09 = Nova chave Primária em uma Tabela
 10 = Remover Chave Primária da Tabela
 
