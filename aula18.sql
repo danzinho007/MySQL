@@ -3,6 +3,5 @@
 --Usa caracteres latinos ( permite acentuação )
 --Define como as strings são comportadas no UTF8 e ignora case-sensitivy
 
-create database cadastro
-default character set utf8
-default collate utf8_general_ci;
+-- Comando abaixo seleciona a Tabela que vamos usar
+use NomeDaTabela

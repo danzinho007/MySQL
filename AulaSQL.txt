@@ -5,6 +5,7 @@ Aula SQL
 03 = Mesma coisa do 02 só que diferente
 04 = 02 sendo que agora ela tem uma Chave primária
 05 = Adicionar na tabela conteúdo 
+insert into 
 06 = Apagando Coluna da Tabela
 07 = Renomeando uma Tabela
 08 = Alterando a posição de uma Coluna em uma Tabela
